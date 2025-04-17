@@ -1,2 +1,3 @@
 # meu-primeiro-repo
- minha primeira aula pratica!
+ meu nome é jonathan!
+ Essa é minha primeira aula pratica!
